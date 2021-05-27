@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 20px;
+}
+body{
+    background: radial-gradient(circle, rgba(212,174,238,1) 0%, rgba(178,235,228,1) 53%, rgba(148,187,233,1) 100%);
+    font-family: 'Caveat', cursive;
+}
+nav{
+    font-size: 20px;
+}
+main{
+    color: rgb(68, 67, 67)
+}
+footer{
+    color: rgb(248, 140, 243);
+    background: rgb(46,214,212);
+    background: linear-gradient(150deg, rgba(46,214,212,1) 0%, rgba(165,68,230,1) 46%, rgba(241,105,211,0.7180059523809523) 100%);
+    font-size: 20px;
+    padding-left: 150px;
+}
+h1{
+    font-size: 80px;
+    font-weight: 300;
+    color: cornsilk;
+    text-align: center;
+}
+h2{
+    color: darksalmon;
+    font-weight: 300;
+    font-size: 60px;
+    text-align: center;
+}
+blockquote{
+    padding-left: 150px;
+    padding-right: 150px;
+    color: rgb(68, 67, 67)
+}
+.imgprincipal{
+    width:1175px;
+    height: 750px;
+    padding-left: 100px;
+}
+.imgcd{
+    width: 200px;
+    height: 200px;
+}
+.imgfly{
+    width: 200px;
+    height: 280px;
+}
+.imgfly2{
+    width: 200px;
+    height: 130px;
+}
+caption{
+    font-size: 40px;
+    color: bisque;
+}
+#discos{
+    margin-left: 500px;
+    font-size: 30px;
+}
+.conciertos{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 25px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    color: rgb(68, 67, 67)
+}
+th, tr{
+    padding: 15px;
+}
+td{
+    padding: 10px;
+}
+p{
+    padding-bottom: 50px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(68, 67, 67)
+}
